@@ -51,7 +51,7 @@ main:
 
 # Menu de recompensas
 main-rewards:
-  name: '&8Arenas'
+  name: '&8Metas'
   size: 54
   slots: [ 11, 12, 13, 14, 15, 16, 19, 21, 22, 23, 24, 25, 28, 29, 31, 32, 33, 34 ]
   previous-slot: 18
